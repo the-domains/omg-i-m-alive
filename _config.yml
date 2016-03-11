@@ -1,4 +1,19 @@
-analytics: {}
+name: "OMG! I'm Alive!"
+favicon: null
+layout_spectrum: 0.230855
+typography_spectrum: 0.48536
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#ADD7F6'
@@ -7,12 +22,7 @@ color:
     - '#2667FF'
     - '#3B28CC'
   brandStrength: 1
-  lightness: 0.498873
-  rhythmicContrast: 0.525237
-  saturation: 0.492117
-cta: {}
-layout_spectrum: 0.230855
-name: "OMG! I'm Alive!"
-opengraph: {}
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
-typography_spectrum: 0.48536
