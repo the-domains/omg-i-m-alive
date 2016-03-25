@@ -4,8 +4,15 @@
         <description><![CDATA[OMG! I'M ALIVE!]]></description>
         <link>https://thegrid.ai/omg-i-m-alive/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Mar 2016 20:08:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2016 20:24:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/omg-i-m-alive/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[This is a test]]></title>
+            <description><![CDATA[<article><h1>This is a test</h1><p>test</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d0867332-bc13-4cc0-b4e8-81fbb8e85473.jpg"></article>]]></description>
+            <link>https://thegrid.ai/omg-i-m-alive/this-is-a-test/index.html</link>
+            <guid isPermaLink="false">b2bd1687-94ba-49ee-bde3-4b185c6e486b</guid>
+            <pubDate>Fri, 25 Mar 2016 20:24:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[About Me]]></title>
             <description><![CDATA[<article><h1>About Me</h1><p>Engineer by day, day dreamer by night. When I can break away from both, I try to travel the world! </p></article>]]></description>
