@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-25T19:48:19.869Z'
-dateModified: '2016-03-25T19:48:09.649Z'
+datePublished: '2016-03-25T20:02:18.470Z'
+dateModified: '2016-03-25T19:52:42.390Z'
 title: 'I Follow My Brother, Everywhere!'
 author: []
+sourcePath: _posts/2016-03-25-i-follow-my-brother-everywhere.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-25-i-follow-my-brother-everywhere.md
-published: true
 url: i-follow-my-brother-everywhere/index.html
 _type: Article
 
