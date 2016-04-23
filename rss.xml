@@ -4,18 +4,11 @@
         <description><![CDATA[OMG! I'M ALIVE!]]></description>
         <link>https://thegrid.ai/omg-i-m-alive/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Mar 2016 20:37:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2016 02:26:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/omg-i-m-alive/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[This is a test]]></title>
-            <description><![CDATA[<article><h1>This is a test</h1><p>test</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9f8be881281c9a8da829fa8c4f9aeca15565b971.jpg"></article>]]></description>
-            <link>https://thegrid.ai/omg-i-m-alive/this-is-a-test/index.html</link>
-            <guid isPermaLink="false">b2bd1687-94ba-49ee-bde3-4b185c6e486b</guid>
-            <pubDate>Tue, 29 Mar 2016 20:36:33 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[About Me]]></title>
-            <description><![CDATA[<article><h1>About Me</h1><p>Engineer by day, day dreamer by night. When I can break away from both, I try to travel the world! </p></article>]]></description>
+            <description><![CDATA[<p>Engineer by day, day dreamer by night. When I can break away from both, I try to travel the world! </p>]]></description>
             <link>https://thegrid.ai/omg-i-m-alive/about-me/index.html</link>
             <guid isPermaLink="false">a4ee95cd-02cc-45f7-b404-69d52ab2a21d</guid>
             <pubDate>Fri, 11 Mar 2016 04:58:44 GMT</pubDate>
